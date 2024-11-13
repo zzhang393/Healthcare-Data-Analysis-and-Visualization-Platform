@@ -1,0 +1,4 @@
+Flask
+pandas           # data_analysis.py 中可能用到
+pyspark          # gpt.py 和 data_analysis.py 中用到
+requests         # 用于 gpt.py 中的 API 请求
